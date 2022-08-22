@@ -1,2 +1,2 @@
-# git-y-herramientas-a1
-PROTOCOLO GIT Y HERRAMIENTAS LIBRES PARA IMPLEMENTAR EL CONTROL DE VERSIONES EN EL DESARROLLO DE APLICACIONES
+# Git y Herramientas
+Protocolo GIT y herramientas libres para implementar el control de versiones en el desarrollo de aplicaciones.
